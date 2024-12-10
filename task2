@@ -1,0 +1,48 @@
+NAME:D CHINMAYEE
+
+COMPANY: Skillcraft technology
+
+ID: SCT/NOV24/5437
+
+DOMAIN: SOFTWARE DEVELOPMENT
+
+DURATION:4 WEEKS
+
+OVERVIEW OF THE PROJECT
+![Screenshot (6)](https://github.com/user-attachments/assets/269bda34-f6a6-4597-b6eb-483ed880983d)
+
+PROJECT:BUILD A PROGRAM THAT GENERATES A RANDOM NUMBER AND CHALLENGES THE USER TO GUESS IT.THE PROGRAM SHOULD PROMPT THE USER TO INPUT THEIR
+GUESS,COMPARE IT TO THE GENERTED NUMBER
+
+OBJECTIVES
+Random Number Generation:
+
+Implement a method to generate a random number within a specified range.
+
+User Interaction:
+
+Prompt the user to input their guess and provide feedback on whether the guess is too high, too low, or correct.
+
+Comparison Logic:
+
+Compare the user's guess to the randomly generated number and determine the result of each guess.
+
+Feedback and Hints:
+
+Provide the user with hints to guide their next guess, enhancing the interactive experience.
+
+Loop Until Correct:
+
+Allow the user to continue guessing until they correctly identify the generated number.
+
+Scorekeeping and Attempts:
+
+Track the number of attempts the user takes to guess the correct number and display it at the end of the game.
+
+User-Friendly Interface:
+
+Ensure the program is easy to use and understand, providing clear instructions and feedback throughout.
+
+Replayability:
+
+Offer an option to play again after successfully guessing the number, encouraging repeated engagement.
